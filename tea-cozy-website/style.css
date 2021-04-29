@@ -81,3 +81,32 @@ h2 {
     margin: 10px;
 }
 
+.locations {
+    width: 1200px;
+    height: 500px;
+    background-image: url('resources/img-locations-background.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+}
+
+.locations h2 {
+    padding-top: 30px;
+}
+
+.location-cards h3 {
+    padding-top: 30px;
+}
+
+.location-cards {
+    vertical-align: top;
+    background-color: black;
+    width: 300px;
+    margin: 15px 40px;
+    display: inline-block;
+}
+
+.location-cards p {
+    margin: 30px 10px;
+}
