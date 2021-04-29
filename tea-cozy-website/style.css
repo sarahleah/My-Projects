@@ -110,3 +110,17 @@ h2 {
 .location-cards p {
     margin: 30px 10px;
 }
+
+footer {
+    height: 200px;
+}
+
+footer h5 {
+    margin: 30px;
+}
+
+.copyright {
+    float: left;
+    margin-bottom: 0;
+    margin-left: 20px;
+}
